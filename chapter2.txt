@@ -1,2 +1,2 @@
-time2
-alien changed file2.
+time3
+human changed file2.
